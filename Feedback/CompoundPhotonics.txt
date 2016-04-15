@@ -1,0 +1,35 @@
+The company doesn't really have oomph in their product on the face of it, how
+can you really make a projector cool, maybe you can and maybe they will but in
+itself to make a major business might be really hard. The company also has a
+bad history of repeated failures. 
+
+What I did well in the interview?
+
+I think I talked well, though I might have talked a little too much.
+
+What I did NOT DO well in the interview?
+
+     Interview with HR Stacey Stovall
+         1. I shouldn't have told her about shyness, probably makes me
+            look not collaborative, which is so important in a startup.
+         2. I shouldn't have criticized Microsoft and my team.
+
+     Tech Interview with Gavin Cheng
+         1. This was the worst tech interview I gave with this company.
+         2. I did not really do well on solving the problem as well as writing
+            the code.
+         3. Never say you have understood something if you haven't.
+         4. It seems to me I am slow at understanding solutions which seem
+            clear to people in their heads.
+         5. Coding question was,
+            start:hit
+            end: dog
+            dictionary: hot,got,cot,cog
+
+            Find a way from start to end if there exists one in the
+            dictionary, you can only change one letter at a time.
+
+      Tech Interview with Zhike,
+         1. This interview
+        
+ 
