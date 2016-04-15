@@ -5,7 +5,9 @@ bad history of repeated failures.
 
 What I did well in the interview?
 
-I think I talked well, though I might have talked a little too much.
+I think I talked well, though I might have talked a little too much. Do not
+discuss personal things/nature/habits in interviews, just judge from the
+outside.
 
 What I did NOT DO well in the interview?
 
@@ -30,6 +32,32 @@ What I did NOT DO well in the interview?
             dictionary, you can only change one letter at a time.
 
       Tech Interview with Zhike,
-         1. This interview
-        
- 
+         1. This interview went well according to me, I did not come up with
+            the most efficient solution, however I did compe up with a working solution. I
+            need to develop better clarity of thought and focus in these interviews.
+         2. The question was to retrieve any number of bits from a boundless
+            buffer.
+            int getbits(numofbits) where BYTE *pbuffer is a global buffer.
+
+       Tech Interview with Monica Catunda
+         1. She just talked as a program manager, I am not sure what was she
+            trying to judge. I thought it went well from a technical
+            perspective. She had worked at MS for 19 years before joining
+            Compound.
+         2. She asked me questions like,
+            a. Did I have to ever backtrack on my design during
+               implementation.
+            b. What is the hardest problem you have worked on recently?
+
+       Interview with Carlos (VP, Software)
+         1. This was the worst interview I gave to a management person.
+         2. I was too tired by this time, I should have had a soda or
+            something, some kind of energy booster. Never keep interviews on
+            Tuesday
+
+         3. Questions he asked were,
+            a. Where do I see myself when I grow up, (personally I feel that
+               is an unprofessional way of asking questions, but I guess that is startup culture.)
+            b. I was not prepared well for asking questions to him. I need to
+               go with a better plan for these interviews.
+
